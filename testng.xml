@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TakeAway Regression Suite" verbose="1">
+    <test name="Chrome Tests" preserve-order="true">
+        <parameter name="browserName" value="Chrome" />
+        <classes>
+            <class name="tests.SearchTest">
+            </class>
+        </classes>
+    </test>
+</suite>
