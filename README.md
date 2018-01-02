@@ -3,7 +3,7 @@ TakeAway.com UI test automation using Selenium, JAVA and TestNG
 
 ## Pre-requisites:
 - Java 8
-- Maven (preferably v3.5.0)
+- Maven (preferably v3.5.0 or greater)
 - Chrome (preferably latest stable version)
 
 ## Steps to run UI tests:
